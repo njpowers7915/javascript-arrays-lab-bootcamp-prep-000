@@ -5,3 +5,8 @@ function destructivelyAppendKitten(name) {
   kittens = [...kittens, name];
   return kittens;
 }
+
+function destructivelyAppendKitten(name) {
+  kittens = [...kittens, name];
+  return kittens;
+}
