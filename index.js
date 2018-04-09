@@ -1,2 +1,2 @@
 const app = "I don't do much."
-const kittens = 
+const kittens = ["Milo", "Otis", "Garfield"]
